@@ -9,7 +9,17 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9478dcf-818d-4729-a5cc-4932d20de3f4" name="Default Changelist" comment="" />
+    <list default="true" id="f9478dcf-818d-4729-a5cc-4932d20de3f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testprintf.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ft_printf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ft_printf.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_printf.c" beforeDir="false" afterPath="$PROJECT_DIR$/ft_printf.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_printf.h" beforeDir="false" afterPath="$PROJECT_DIR$/ft_printf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libftprintf.a" beforeDir="false" afterPath="$PROJECT_DIR$/libftprintf.a" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +27,9 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Yw3ImGRNySYbcPrPSbVtuKBf0N" />
   <component name="ProjectViewState">
@@ -26,8 +39,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ft_printf" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./a.out" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -39,7 +66,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583839753043</updated>
-      <workItem from="1583839758233" duration="3767000" />
+      <workItem from="1583839758233" duration="3931000" />
+      <workItem from="1584087205625" duration="2792000" />
+      <workItem from="1584093384476" duration="3297000" />
     </task>
     <servers />
   </component>
@@ -47,9 +76,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1319" y="518" key="com.intellij.ide.util.TipDialog" timestamp="1583839812645">
+    <state x="1191" y="347" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584093502899">
       <screen x="0" y="23" width="2560" height="1325" />
     </state>
-    <state x="1319" y="518" key="com.intellij.ide.util.TipDialog/0.23.2560.1325@0.23.2560.1325" timestamp="1583839812645" />
+    <state x="1191" y="347" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1325@0.23.2560.1325" timestamp="1584093502899" />
+    <state x="1321" y="288" key="CommitChangelistDialog2" timestamp="1584093452481">
+      <screen x="0" y="23" width="2560" height="1325" />
+    </state>
+    <state x="1321" y="288" key="CommitChangelistDialog2/0.23.2560.1325@0.23.2560.1325" timestamp="1584093452481" />
+    <state x="1319" y="518" key="com.intellij.ide.util.TipDialog" timestamp="1584087205640">
+      <screen x="0" y="23" width="2560" height="1325" />
+    </state>
+    <state x="1319" y="518" key="com.intellij.ide.util.TipDialog/0.23.2560.1325@0.23.2560.1325" timestamp="1584087205640" />
   </component>
 </project>

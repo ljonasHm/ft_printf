@@ -12,10 +12,12 @@
 
 NAME = libftprintf.a
 SRC = ft_printf.c
- 
+
+HEADER = ft_printf.h
+
 OBJ	= $(SRC:%.c=%.o)
 
-CFLAGS = -Wall -Wextra -Werror -c $(addprefix -I, $(INC_DIR))
+CFLAGS = -Wall -Wextra -Werror -c
 
 LIBFT = libft/libft.a
 
