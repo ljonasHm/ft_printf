@@ -12,11 +12,11 @@
 
 #include "ft_printf.h"
 
-void    ft_putfloat(float num)
+/*void    ft_putfloat(float num)
 {
 	
 }
-
+*/
 int     ft_printf(char *spec, ...)
 {
 	va_list params;
@@ -41,11 +41,11 @@ int     ft_printf(char *spec, ...)
 				specs.c = va_arg(params, int);
 				ft_putchar(specs.c);
 			}
-			if (*spec == 'f')
+			/*if (*spec == 'f')
 			{
-				specs.f = va_arg(params, float);
+			    specs.f = va_arg(params, float);
 				ft_printf(floatnum(specs.c));
-			}
+			}*/
 		}
 		spec++;
 	}
